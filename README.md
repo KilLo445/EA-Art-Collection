@@ -2,6 +2,5 @@
 
 Originally by ThirteenAG
 
-Will be hosted on Archive.org eventually.
-
+Internet Archive: https://archive.org/details/ea-artwork-collection
 Original: https://github.com/ThirteenAG/EA-Art-Collection/
