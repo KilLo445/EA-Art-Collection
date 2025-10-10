@@ -1,5 +1,7 @@
 # EA-Art-Collection
 
-ThirteenAG's EA Artwork Rip hosted on GitHub
+Originally by ThirteenAG
+
+Will be hosted on Archive.org eventually.
 
 Original: https://github.com/ThirteenAG/EA-Art-Collection/
